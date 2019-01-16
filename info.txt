@@ -3,3 +3,5 @@ This is a critical message that I'm going to amend in the previous commit along 
 Commit #2
 
 Commit #3
+
+Commit #4
