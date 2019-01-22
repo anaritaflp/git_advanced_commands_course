@@ -1,15 +1,20 @@
-This is a critical message that I'm going to amend in the previous commit along with this file.
+Init info file.
 
-Commit #2
+commit 1
 
-Commit #3
+commit 2
 
-Commit #4
+commit 3
 
-Commit #5
+commit 4
 
-Commit #6
+commit 5 (extra)
 
-Commit #7
+commit 6
 
-Commit #8
+commit 7
+
+commit 8
+
+commit 9
+
