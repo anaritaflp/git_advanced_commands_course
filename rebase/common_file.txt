@@ -4,3 +4,8 @@ asdfghjkl f1
 zxcvbnm f1
 123456789 f1
 More code for feature 1...
+Code for feature 2.
+zxcvbnm f2
+asdfghjkl f2
+qwertyuiop f2
+123456789 f2
