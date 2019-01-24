@@ -1,0 +1,6 @@
+Some change that was done here in the meantime...
+Commit 1
+Commit 2
+Commit 3
+.... and something else to make
+both changes make sense together.
