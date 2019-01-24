@@ -23,3 +23,6 @@ a change to be soft reset
 another change that will not be staged
 
 oops, afterall I want THIS change as well
+
+a change to be tagged
+
